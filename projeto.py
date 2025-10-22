@@ -1,7 +1,7 @@
 """
-🐉 Dragon's Quest - A Text Adventure Game
-Author: Seu Nome
-Description: Um jogo de aventura em texto com múltiplas escolhas, sistema de inventário e combate por turnos.
+🐉 Dragon's Quest - Jogo de aventura
+Autor: Seu Nome
+Descrição: Um jogo de aventura em texto com múltiplas escolhas, sistema de inventário e combate por turnos.
 """
 
 import random
